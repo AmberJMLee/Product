@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/barcode4j-fop-ext-0.20.5.jar"/>
+	<classpathentry kind="lib" path="lib/fop.jar"/>
+	<classpathentry kind="lib" path="lib/barcode4j.jar"/>
+	<classpathentry kind="lib" path="lib/barcode4j.war"/>
+	<classpathentry kind="lib" path="lib/barcode4j-fop-ext.jar"/>
+	<classpathentry kind="lib" path="lib/barcode4j-fop-ext-0.20.5-complete.jar"/>
+	<classpathentry kind="lib" path="lib/barcode4j-fop-ext-complete.jar"/>
+	<classpathentry kind="lib" path="lib/barcode4j-light.jar"/>
+	<classpathentry kind="lib" path="lib/barcode4j-xgc.jar"/>
+	<classpathentry kind="lib" path="lib/barbecue-1.5-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
